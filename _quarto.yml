@@ -11,6 +11,10 @@ website:
         text: Work Experience
       - href: Projects.qmd
         text: Projects & Papers
+  
+  page-footer:
+    right: "&copy; 2024, Shashvat Patel"
+
 
 format:
   html:
