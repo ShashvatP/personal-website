@@ -1,11 +1,35 @@
 ---
 title: "Shashvat Patel"
+about:
+    template: trestles
+    links:
+        - icon: linkedin
+          text: LinkedIn
+          url: https://www.linkedin.com/in/shashvatpatel/
+        - icon: twitter
+          text: Twitter
+          url: https://twitter.com/shashp12
+        - icon: github
+          text: Github
+          url: https://github.com/ShashvatP
+        - icon: envelope
+          text: Email
+          url: mailto:shashvat912@gmail.com
+image: IMG_3300.jpg
+comments: false
 ---
 
-This is a Quarto website.
+# About Me
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I am a 4th year undergraduate student at the University of California, Los Angeles (UCLA) majoring in Statistics and Data Science. I have a passion for Product Management and have work experience at Cisco, Panorama Education, and RippleMatch. I enjoy using data to break down complex problems and visualizing my findings through wireframes. My relevant coursework at UCLA includes: Program in Computing (C++), Linear Algebra and Applications, Statistics, Programming with R, Data-Driven Mathematical Modeling, Python and Other Technologies for Data Science. \
+\
+Outside of school, I am interested in basketball, football, and hip-hop music. I also enjoy art museums and late night walks along the ocean side! \
+\
+Attached here is my [Resume]("Shashvat_Patel_Resume copy.pdf Resume")	\
+\
+Please feel free to contact me through my email or through the phone number listed on my resume!				
+				
+			
+		
 
-```{r}
-1 + 1
-```
+	
