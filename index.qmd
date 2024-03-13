@@ -25,7 +25,7 @@ I am a 4th year undergraduate student at the University of California, Los Angel
 \
 Outside of school, I am interested in basketball, football, and hip-hop music. I also enjoy art museums and late night walks along the ocean side! \
 \
-Attached here is my [Resume]("Shashvat_Patel_Resume copy.pdf Resume")	\
+Attached here is my [Resume](/Resume/Shashvat_Patel_Resumec.pdf) \
 \
 Please feel free to contact me through my email or through the phone number listed on my resume!				
 				

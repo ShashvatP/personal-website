@@ -26,4 +26,4 @@ Our findings were telling. We observed a marked disparity in food access and SNA
 
 The research underscored the persistent influence of historical racism on current social and health outcomes, advocating for more robust policy interventions to tackle food insecurity in marginalized communities effectively. This paper not only contributed to the academic discourse but also aimed to inform policy-making, highlighting the importance of integrating historical context and social equity into public health strategies.\
 \
-You can access an overview of the paper [here]("FILE_0571.pdf").
+Here is an accessible overview of my [paper]("/Paper/paper.pdf paper").
